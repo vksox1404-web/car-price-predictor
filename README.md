@@ -32,3 +32,8 @@ This is a Machine Learning project that predicts car selling prices based on fea
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+<img width="1917" height="863" alt="image" src="https://github.com/user-attachments/assets/544bedc8-daec-462d-ba8a-1ec1bf2283af" />
+<img width="1911" height="887" alt="image" src="https://github.com/user-attachments/assets/ee5d252e-6ebf-4ce9-824b-ae37c3724b53" />
+
