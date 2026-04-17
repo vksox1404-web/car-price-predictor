@@ -29,7 +29,7 @@ Most car price prediction projects are trained on Indian or Western datasets, ma
 
 ## 🧠 ML Pipeline
 
-1. **Data Collection** — Gulf market used car dataset (Saudi Arabia)
+1. **Data Collection** — Gulf market used car dataset (Saudi Arabia)and converted to fit qatar market as they are very close 
 2. **Data Cleaning** — Handled missing values, removed outliers, dropped irrelevant columns
 3. **Feature Engineering** — Converted prices from SAR to QAR, applied One-Hot Encoding
 4. **Model Training** — Random Forest Regressor
