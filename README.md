@@ -5,7 +5,7 @@ An end-to-end Machine Learning web application that predicts used car prices in 
 ---
 
 ## 🌐 Live Demo
-👉 [Try the app here](https://vksox1404-web-car-price-predictor.streamlit.app)
+👉 [Try the app here](https://car-price-predictor-djhqhzzfucmebywtqmtoyp.streamlit.app/)
 
 ---
 
